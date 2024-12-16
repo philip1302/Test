@@ -1,4 +1,1 @@
-# Farbpalette
-## h2
-### h3
-
+![Codewars Badge](https://www.codewars.com/users/Alcatraz1302/badges/large)
